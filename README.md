@@ -1,3 +1,4 @@
+![MasterHead](https://e476rzxxeua.exactdn.com/wp-content/uploads/2020/01/00086-desk-anim-v0.3.gif?strip=all&lossy=1&sharp=1&ssl=1.gif)
 <h1 align="center">Hi 👋, I'm Shubham Verma</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
